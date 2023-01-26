@@ -1,0 +1,6 @@
+[submodule "TrainTicket/TrainTicket/train-ticket"]
+	path = TrainTicket/TrainTicket/train-ticket
+	url = https://github.com/FudanSELab/train-ticket.git
+[submodule "TrainTicket/train-ticket"]
+	path = TrainTicket/train-ticket
+	url = https://github.com/FudanSELab/train-ticket.git
